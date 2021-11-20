@@ -97,7 +97,7 @@ body {
   width: 0.4rem;
   height: 45%;
   background-color: #e76f51;
-  /* transition: all 0.5s; */
+  transition: all 0.5s;
 }
 
 .clock .hand.hand-minute {
